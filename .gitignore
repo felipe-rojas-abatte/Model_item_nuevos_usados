@@ -1,0 +1,8 @@
+# Files
+MLA_100k_checked_v3.jsonlines
+*.docx
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+.DS_Store
