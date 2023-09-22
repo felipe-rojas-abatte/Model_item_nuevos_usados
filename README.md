@@ -1,1 +1,1 @@
-# Model_item_nuevos_usados
+# Model to recognize either new or used items
